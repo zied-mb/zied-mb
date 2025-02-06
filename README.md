@@ -40,8 +40,8 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- Automatically display the latest 2 blog posts -->
-<iframe src="https://feed.wind.com/?url=https://zenicdev.blogspot.com/feeds/posts/default&num=2" width="600" height="400"></iframe>
+<!-- Automatically display latest blog posts from RSS feed -->
+<iframe src="https://feed.wind.com/?url=https://zenicdev.blogspot.com/feeds/posts/default" width="600" height="400"></iframe>
 
 ---
 
