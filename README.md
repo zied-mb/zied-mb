@@ -39,10 +39,8 @@
 ---
 
 ### 📝 Latest Blog Posts
-
-<!-- start feedwind code -->
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Loading" data-fw-param="171284/"></script>
-<!-- end feedwind code -->
+<!-- Manually add your blog posts -->
+- [Post Title 1](<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Loading" data-fw-param="171284/"></script> <!-- end feedwind code -->) - Date
 
 ---
 
