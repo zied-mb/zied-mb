@@ -1,16 +1,24 @@
-# 👋 Hi, I’m [Zied]!
+<h1 align="center">Hi 👋, I'm Zied</h1>
+<h3 align="center">A passionate Full-Stack Software Development</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zied-meddeb-7087a2266/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zied.mb/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zied_mb)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zied-mb)  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zied-meddeb-7087a2266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zied-meddeb-7087a2266/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/zied.mb.1919/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zied.mb.1919/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/zied.mb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zied.mb/" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/ziedmb#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ziedmb#" height="30" width="40" /></a>
+<a href="https://medium.com/@dounzay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dounzay" height="30" width="40" /></a>
+<a href="/https://zenicdev.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenicdev.blogspot.com/" height="30" width="40" /></a>
+</p>
 
 ---
 
 ## 🧑‍💻 **About Me**  
-🔭 **I’m currently working on**: Full-Stack Software Development  
+🔭 **I’m currently**: Full-Stack Software Development  
 🌱 **Learning**: Godot for game development & advanced web technologies  
 💬 **Ask me about**: Web development, graphic design, and blogging  
+📝 **I regularly write articles on** [https://zenicdev.blogspot.com/](https://zenicdev.blogspot.com/)  
 📫 **Reach me**: [dounzay@gmail.com](mailto:dounzay@gmail.com)  
 ⚡ **Fun fact**: I’m always juggling between coding, designing, and exploring new business ideas 🚀
 
@@ -47,9 +55,11 @@
 
 ## 📈 **GitHub Stats**
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zied-mb&show_icons=true&theme=radical)](https://github.com/zied-mb)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zied-mb&layout=compact&theme=radical)](https://github.com/zied-mb)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zied-mb&" alt="zied-mb" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zied-mb&show_icons=true&locale=en&layout=compact" alt="zied-mb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zied-mb&show_icons=true&locale=en" alt="zied-mb" /></p>
 ---
 
 ## 📝 **Latest Blog Posts**
