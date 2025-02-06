@@ -40,8 +40,9 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- Automatically display latest blog posts from RSS feed -->
-<iframe src="https://feed.wind.com/?url=https://zenicdev.blogspot.com/feeds/posts/default" width="600" height="400"></iframe>
+<!-- start feedwind code -->
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Loading" data-fw-param="171284/"></script>
+<!-- end feedwind code -->
 
 ---
 
