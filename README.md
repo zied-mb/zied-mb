@@ -22,14 +22,13 @@
 
 ### 🚀 Featured Projects
 
-#### [Project 1 Title](https://github.com/your/project1)
-> Short description. Built with [Tech Stack].  
-> ![Stars](https://img.shields.io/github/stars/your/project1?style=social)
+#### [Weather-APP](https://github.com/zied-mb/Weather-APP)
+> A weather forecasting app that provides real-time weather data. Built with JavaScript, HTML, CSS.  
+> ![Stars](https://img.shields.io/github/stars/zied-mb/Weather-APP?style=social)
 
-#### [Project 2 Title](https://github.com/your/project2)
-> Short description. Built with [Tech Stack].  
-> ![Contributors](https://img.shields.io/github/contributors/your/project2?style=flat)
-
+#### [Restaurant-Menu-Bootstrap](https://github.com/zied-mb/Restaurant-Menu-Bootstrap)
+> A responsive restaurant menu design using Bootstrap. Built with HTML, CSS, Bootstrap.  
+> ![Contributors](https://img.shields.io/github/contributors/zied-mb/Restaurant-Menu-Bootstrap?style=flat)
 ---
 
 ### 📈 GitHub Stats
@@ -40,9 +39,9 @@
 ---
 
 ### 📝 Latest Blog Posts
-<!-- Add your blog posts using RSS or manual links -->
-- [Post Title 1](https://your-blog.com/post1) - Date  
-- [Post Title 2](https://your-blog.com/post2) - Date  
+<!-- Add your blog posts manually -->
+- [Post Title 1](https://zenicdev.blogspot.com/2025/02/post-title-1.html) - Date
+- [Post Title 2](https://zenicdev.blogspot.com/2025/02/post-title-2.html) - Date
 
 ---
 
