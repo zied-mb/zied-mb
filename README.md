@@ -39,9 +39,9 @@
 ---
 
 ### 📝 Latest Blog Posts
-<!-- Add your blog posts manually -->
-- [Post Title 1](https://zenicdev.blogspot.com/2025/02/post-title-1.html) - Date
-- [Post Title 2](https://zenicdev.blogspot.com/2025/02/post-title-2.html) - Date
+
+<!-- Automatically display the latest 2 blog posts -->
+<iframe src="https://feed.wind.com/?url=https://zenicdev.blogspot.com/feeds/posts/default&num=2" width="600" height="400"></iframe>
 
 ---
 
