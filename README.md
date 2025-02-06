@@ -53,21 +53,23 @@
 
 ---
 
-## 📈 **GitHub Stats**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zied-mb&" alt="zied-mb" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zied-mb&show_icons=true&locale=en&layout=compact" alt="zied-mb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zied-mb&show_icons=true&locale=en" alt="zied-mb" /></p>
----
-
 ## 📝 **Latest Blog Posts**
 
 - [To-Do List App with HTML, CSS, and JavaScript](https://zenicdev.blogspot.com/2025/02/to-do-list-app-with-html-css-and.html) - February 2025  
 - [How to Create a Tic-Tac-Toe Game with HTML, CSS, and JavaScript](https://zenicdev.blogspot.com/2025/02/how-to-create-tic-tac-toe-game-with.html) - February 2025  
 
 ---
+
+## 📈 **GitHub Stats**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zied-mb&" alt="zied-mb" /></p>  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zied-mb&show_icons=true&locale=en&layout=compact" alt="zied-mb" /></p>  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zied-mb&show_icons=true&locale=en" alt="zied-mb" /></p>
+
+---
+
 
 ✨ **Thanks for visiting**
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zied-mb.zied-mb)](https://github.com/zied-mb)
