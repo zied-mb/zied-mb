@@ -63,7 +63,7 @@
 ## 📈 **GitHub Stats**
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zied-mb&" alt="zied-mb" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zied-mb&show_icons=true&locale=en" alt="zied-mb" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zied-mb&show_icons=true&locale=en" alt="zied-mb" /></p>
 
 ---
 
