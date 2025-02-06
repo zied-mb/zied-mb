@@ -39,8 +39,9 @@
 ---
 
 ### 📝 Latest Blog Posts
-<!-- Manually add your blog posts -->
-- [Post Title 1](<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Loading" data-fw-param="171284/"></script> <!-- end feedwind code -->) - Date
+
+- [To-Do List App with HTML, CSS, and JavaScript](https://zenicdev.blogspot.com/2025/02/to-do-list-app-with-html-css-and.html) - February 2025
+- [How to Create a Tic-Tac-Toe Game with HTML, CSS, and JavaScript](https://zenicdev.blogspot.com/2025/02/how-to-create-tic-tac-toe-game-with.html) - February 2025
 
 ---
 
