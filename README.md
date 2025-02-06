@@ -46,8 +46,8 @@
 ---
 
 👷 **Check out my contributions this week!**  
-![GitHub Snake Light](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/zied-mb/zied-mb/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/zied-mb/zied-mb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ✨ **Thanks for visiting!**  
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)](https://github.com/your-username)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zied-mb.zied-mb)](https://github.com/zied-mb)
