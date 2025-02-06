@@ -47,7 +47,7 @@
 
 ## 📈 **GitHub Stats**
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zied-mb&show_icons=true&theme=radical)](https://github.com/zied-mb)  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zied-mb&show_icons=true&theme=radical)](https://github.com/zied-mb)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zied-mb&layout=compact&theme=radical)](https://github.com/zied-mb)
 
 ---
