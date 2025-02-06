@@ -59,5 +59,5 @@
 
 ---
 
-✨ **Thanks for visiting!**  
+✨ **Thanks for visiting!**
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zied-mb.zied-mb)](https://github.com/zied-mb)
