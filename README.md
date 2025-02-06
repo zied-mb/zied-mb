@@ -63,21 +63,3 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zied-mb.zied-mb)](https://github.com/zied-mb)
 
 
-name: GitHub Readme YouTube Cards
-on:
-  schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    # Allow the job to commit to the repository
-    permissions:
-      contents: write
-    # Run the GitHub Readme YouTube Cards action
-    steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: UCipSxT7a3rn81vGLw9lqRkg  # Use your actual YouTube channel ID
