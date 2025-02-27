@@ -18,7 +18,7 @@
 🔭 **I’m currently**: Full-Stack Software Development  
 🌱 **Learning**: Always learning new things
 💬 **Ask me about**: Web development, graphic design, and blogging  
-📝 **I regularly write articles on** [https://zenicdev.blogspot.com/](https://zenicdev.blogspot.com/)  
+📝 **I regularly write articles on** [https://tictacdev.blogspot.com/](https://tictacdev.blogspot.com/)  
 📫 **Reach me**: [dounzay@gmail.com](mailto:dounzay@gmail.com)  
 ⚡ **Fun fact**: I’m always juggling between coding, designing, and exploring new business ideas 🚀
 
